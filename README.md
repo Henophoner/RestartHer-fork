@@ -84,21 +84,22 @@ flutter run
   <img width="1280" height="1028" alt="image" src="https://github.com/user-attachments/assets/94fb1cab-b8f1-422c-ba33-25c65e473050" />
 
 * Explanation
-* ** If user doesn't have an account, creates one.
-* ** User logins to the webapp.
-* ** If a first time user, program directs to Survey page, where all the essential credentials for building the roadmap is collected.
-* ** Then the data is stored in firebase which is analyzed later for building roadmap.
-* ** The roadmaps are displayed for the user, user can choose among them.
-* ** A dashboard containing ways to proceed through implementation of roadmap can be displayed.
-* ** Also if the user is not first time user, then after logging in, the app directly directs to the dashboard.
-* ** Dashboardcontains Video, Course, Interview tips, Resume Building suggestions based on the roadmap selected and an icon to revisit the road map.
-* ** A tracker can be provided on the dashboard to track the working progress.
+* If user doesn't have an account, creates one.
+* User logins to the webapp.
+* If a first time user, program directs to Survey page, where all the essential credentials for building the roadmap is collected.
+* Then the data is stored in firebase which is analyzed later for building roadmap.
+* The roadmaps are displayed for the user, user can choose among them.
+* A dashboard containing ways to proceed through implementation of roadmap can be displayed.
+* Also if the user is not first time user, then after logging in, the app directly directs to the dashboard.
+* Dashboardcontains Video, Course, Interview tips, Resume Building suggestions based on the roadmap selected and an icon to revisit the road map.
+* A tracker can be provided on the dashboard to track the working progress.
 
 
 
 
 
   
+
 
 
 
