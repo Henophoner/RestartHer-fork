@@ -1,7 +1,3 @@
-Here’s a complete README draft for your **RestartHer** project following the format you provided:
-
----
-
 # RestartHer 🎯
 
 **Team Name:** Ctrl Alt Elite
@@ -58,3 +54,4 @@ RestartHer solves this by providing:
 * **Progress Tracking:** Allows users to track milestones and achievements
 
 -
+
